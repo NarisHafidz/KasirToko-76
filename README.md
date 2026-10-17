@@ -214,7 +214,7 @@ Berikut adalah antarmuka visual utama dari aplikasi **KasirToko POS**:
 | ![Product Management](./assets/screenshots/04-produk.png) | ![Report Analytics](./assets/screenshots/05-laporan.png) | ![Receipt Search](./assets/screenshots/06-struk-wa.png) |
 | *Toggle status produk aktif/nonaktif* | *Grafik kurva penjualan & filter periode* | *Pencarian no. struk (#0001) & share WhatsApp* |
 
-> *Catatan: Ganti tautan placeholder di atas dengan berkas tangkapan layar asli aplikasi Anda di folder `./assets/screenshots/` sebelum publikasi akhir.*
+> *Catatan: Ini adalah tangkapan layar aplikasi yang telah selesai dibuat dan diuji.* 
 
 ---
 
